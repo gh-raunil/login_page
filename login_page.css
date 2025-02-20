@@ -182,12 +182,12 @@ body
 
 .forget_password p
 {
-    margin: 0px;
+    color: rgb(0, 0, 174);
 }
 
 .forget_password p:active
 {
-    color: blue;
+    color: rgb(145, 145, 255);
 }
 
 .to-center p
