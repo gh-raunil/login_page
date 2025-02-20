@@ -243,7 +243,6 @@ body
     margin-bottom: 20px;
     padding: 0px 10px;
     background-color: #ffffff;
-    /* border-radius: 20px; */
 }
 
 .logos-box
@@ -276,7 +275,7 @@ body
 
 .logos img:not(:hover)
 {
-    transition: 0.4s ease;
+    transition: 0.4s ease-in-out;
 }
 
 .logos img:active
